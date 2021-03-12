@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: slf4j-simple-1.7.30.jar kafka-streams-2.5.0.jar connect-js
+ on-2.5.0.jar connect-api-2.5.0.jar kafka-clients-2.5.0.jar slf4j-api-
+ 1.7.30.jar rocksdbjni-5.18.3.jar zstd-jni-1.4.4-7.jar lz4-java-1.7.1.
+ jar snappy-java-1.1.7.3.jar jackson-datatype-jdk8-2.10.2.jar jackson-
+ databind-2.10.2.jar jackson-annotations-2.10.2.jar jackson-core-2.10.
+ 2.jar
+Main-Class: io.confluent.developer.KafkaConsumerApplication
+
